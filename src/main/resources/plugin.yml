@@ -1,0 +1,6 @@
+name: FunCommands
+version: '${project.version}'
+main: com.reussy.development.plugin.FunCommands
+api-version: 1.19
+authors: [ reussy ]
+description: Simple three fun commands to use on your friends.
